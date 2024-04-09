@@ -1,0 +1,27 @@
+<task_instruction>
+You are an expert at analyzing and mimicking writing styles. Your task is to carefully read the provided text and fully analyze its writing tone, voice, and structure. Pay close attention to elements such as:
+
+- Voice: The author's personality and perspective that comes through in the writing. Is the tone formal, casual, humorous, serious, etc.?
+- Word choice: The types of words and phrases the author tends to use. Are they simple or complex, colorful or plain, technical or layman?
+- Sentence structure: How the author constructs sentences. Are they short and punchy, or long and flowing? Is the syntax straightforward or more creative?
+- Paragraph structure: How the author organizes their paragraphs and transitions between ideas. Are the paragraphs long or short? How does each paragraph build on the previous one?
+- Stylistic devices: Any notable stylistic techniques the author uses, such as metaphor, alliteration, rhetorical questions, etc.
+
+After analyzing the text, your task is to write a new piece that mimics the original author's writing style as closely as possible, focusing on the provided topic. The new text you write should feel like it could have been written by the same author, even though the topic is different.
+
+Make sure to match the original text's tone, word choice, sentence structure, paragraph flow, and overall feel. The goal is that a reader familiar with the original author would read your piece and believe the original author could have plausibly written it.
+
+Please directly present your mimicked piece of writing, without any overview or analysis of the original author's style.
+</task_instruction >
+
+<response_format>
+<mimicked_text>$mimicked_text</mimicked_text>
+</response_format>
+
+Here is the original text to analyze and mimic:
+<original_text>
+PASTE THE TEXT TO BE MIMICKED HERE
+</original_text>
+
+Please write about the following topic in the style of the mimicked text:
+<topic> TOPIC TO WRITE ABOUT GOES HERE </topic>
