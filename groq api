@@ -1,4 +1,8 @@
+模型：
+Llama3-8b-8192、Llama3-70b-8192、Mixtral-8x7b-32768
+
+API：
 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
 
-
+API HOST:
 https://api.groq.com/openai/v1/chat/completions
